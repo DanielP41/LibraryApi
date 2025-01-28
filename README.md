@@ -14,10 +14,4 @@ La **Library API** permite a los usuarios gestionar una colección de libros. Es
 - Actualizar la información de un libro.
 - Eliminar un libro de la colección.
 
-## Instalación
 
-Sigue estos pasos para instalar y ejecutar la API en tu máquina local:
-
-1. Clonar el repositorio:
-
-   git clone https://github.com/DanielP41/LibraryApi.git
